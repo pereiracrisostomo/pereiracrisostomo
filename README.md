@@ -1,0 +1,4 @@
+- 👋 Hello word, I’m @pereiracrisostomo
+- 👀 I’m interested in technology
+- 🌱 I’m currently learning IT infrastructure
+- 💞️ I try to collaborate in what I can
